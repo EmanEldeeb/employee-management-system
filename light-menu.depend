@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698669716 source:h:\iti\c-language\lab5\part1\light-menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1698637672 source:d:\github\c-projects\light-menu-edit-delete employee\light-menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
